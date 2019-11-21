@@ -11,7 +11,7 @@ ETCD_VERSION=3.3.10
 DNS_VERSION=1.3.1
 
 GCR_URL=k8s.gcr.io
-ALIYUN_URL=registry.cn-shenzhen.aliyuncs.com/cookcodeblog
+ALIYUN_URL=registry.cn-hangzhou.aliyuncs.com/zhujunjie
 
 images=(kube-proxy:${KUBE_VERSION}
 kube-scheduler:${KUBE_VERSION}
